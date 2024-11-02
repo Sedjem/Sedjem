@@ -16,7 +16,7 @@ Tech enthusiast at the beginning of my journey, exploring the vast world of tech
 ![Communication](https://img.shields.io/badge/-Communication-blue?style=flat-square)
 
 ## Get in Touch 📬
-- 💼 LinkedIn: [Jayden Scholz](https://linkedin.com/in/jayden-scholz)
+- 💼 LinkedIn: [Jayden Scholz](https://www.linkedin.com/in/scholz-jayden/)
 
 ## GitHub Stats 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sedjem&show_icons=true&theme=dark)
